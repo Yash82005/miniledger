@@ -22,3 +22,5 @@ coverage/
 # System files
 .DS_Store
 Thumbs.db
+# Mobile Git backup
+mobile/.git-backup/
