@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# Build files
+build/
+coverage/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
